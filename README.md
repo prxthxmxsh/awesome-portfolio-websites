@@ -80,9 +80,9 @@ Purpose of the Documentation is ensure anyone without any knowledge of web devel
 - GitHub Actions 
 - Setup Search Option
 
-<h2 align= "center"><b> Contribution Guidelines </b></h2>
+<h2 align= "center"><b> Programs: </b></h2>
 
-<h3 align= "center"><b> Student Code IN </b></h3>
+<a href = "https://scodein.tech/"><h3 align= "center"><b> Student Code IN </b></h3></a> 
 
 <p align="center"><img width=30% src="Student_Code_In.jpg"></p>
 
