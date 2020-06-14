@@ -84,9 +84,17 @@ Purpose of the Documentation is ensure anyone without any knowledge of web devel
 
 <a href = "https://scodein.tech/"><h3 align= "center"><b> Student Code IN </b></h3></a> 
 
-<p align="center"><img width=30% src="Student_Code_In.jpg"></p>
+<p align="center"><img width=30% src="assets/sci.jpg"></p>
 
-Student Code-in is a global program that helps students grow with “OPEN SOURCE”. It is a 2 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of OPEN SOURCE Projects. In this,all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team. >
+Student Code-in is a global program that helps students grow with “OPEN SOURCE”. It is a 2 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of OPEN SOURCE Projects. In this,all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team. 
+
+<a href = "http://www.pclubsummerofcode.in/"><h3 align= "center"><b> PClub Summer of Code </b></h3></a> 
+
+<p align="center"><img width=30% src="assets/psoc.png"></p>
+
+PClub Summer of Code is the 2 month long Open Source program during summers conducted by Programming Club, UIET, with an aim to help beginners get started with Open Source Development while encouraging diversity. Throughout the program, participants contribute to different projects under guidance of experienced mentors. Mentors get to make their ideas alive and Mentees get to learn tech.
+
+PSoC is targeted at audience who want to dwell in OpenSource Development as well as who are already into FOSS development. This program will help students for other opensource programs like Gsoc, Outreachy, etc.
 
 
 <h2 align= "center"><b> Project Maintainers</b></h2>
