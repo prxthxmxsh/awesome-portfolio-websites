@@ -54,7 +54,7 @@ Skills:
 
 4) Project Documentation
 
-**MkDocs or Docusaurus is prefered
+**MkDocs or Docusaurus is prefered**
 
 All work related to this is to be initially done at gh-pages branch
 
@@ -71,7 +71,7 @@ Purpose of the Documentation is ensure anyone without any knowledge of web devel
 - [ ] Project Maintiance Page
 - [ ] Open Source License and Code of Conduct
 
-**) Miscellaneous:
+**Miscellaneous**:
 
 - Wikis ( Regarding Certain aspects of design and development used for the web pages)
 - ReadMe ( Make it more appealing with better content,pics,assets,gifs,badges)
@@ -80,7 +80,13 @@ Purpose of the Documentation is ensure anyone without any knowledge of web devel
 - GitHub Actions 
 - Setup Search Option
 
+<h2 align= "center"><b> Contribution Guidelines </b></h2>
 
+<h3 align= "center"><b> Student Code IN </b></h3>
+
+<p align="center"><img width=30% src="Student_Code_In.jpg"></p>
+
+Student Code-in is a global program that helps students grow with “OPEN SOURCE”. It is a 2 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of OPEN SOURCE Projects. In this,all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team. >
 
 
 <h2 align= "center"><b> Project Maintainers</b></h2>
